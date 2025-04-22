@@ -1,13 +1,12 @@
 <h1 align="center">Hola 👋, soy Fernando Herrero</h1>
 <h3 align="center">Cuidador</h3>
 
-- 🔭Estoy trabajando en **¿?¿?¿?**
+- 🔭 Estoy trabajando en **¿?¿?¿?**
 
 - 🌱 Actualmente estoy aprendiento **Git**
 
 - 📫 Me puedes contactar en **fernando.herrero@educa.madrid.org**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
